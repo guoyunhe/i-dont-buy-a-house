@@ -1,2 +1,3 @@
-# i-dont-buy-a-house
-我不买房
+# 我不买房
+
+如果你也不买房，请 fork & star
